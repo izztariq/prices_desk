@@ -16,5 +16,5 @@
  I believe the data cannot tell us whether all grocery prices in Pakistan would be increasing, whether these items are becoming unaffordable for households, or whether people have changed their spending habits. I believe this is because the dataset does not include household incomes, and it does not have the ability to show the purchasing power of consumers' spending patterns.
 ## 3. Attempt Snapshot Commit Hash
 * **Commit Message:** `attempt-before-AI`
-* **Commit Hash:** 'ebe18ad'
+* **Commit Hash:** 'c4c370d'
 
